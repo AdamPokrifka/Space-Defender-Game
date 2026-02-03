@@ -1,2 +1,2 @@
 # Space-Defender-Game
-This repositories contain all of my Space Defender Games.
+This repository contain all of my Space Defender Games.
