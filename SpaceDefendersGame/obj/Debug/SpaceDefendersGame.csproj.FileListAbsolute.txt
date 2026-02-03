@@ -1,0 +1,11 @@
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\bin\Debug\SpaceDefendersGame.exe.config
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\bin\Debug\SpaceDefendersGame.exe
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\bin\Debug\SpaceDefendersGame.pdb
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.exe
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.pdb
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.exe.config
+C:\Users\apokrifka\Desktop\C#\SpaceDefendersGame\obj\Debug\SpaceDefendersGame.Form1.resources
